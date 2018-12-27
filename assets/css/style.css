@@ -1,0 +1,34 @@
+body {
+    background-image: url("../images/DeepSpace.png");
+    color: white;
+}
+.instruction {	
+    padding: 2%;
+}
+
+.randomNumber {
+	padding: 3%;	 
+	font-size: 200%; 	
+}
+
+.totalWL { 	
+	padding: 2%; 	 
+}
+
+.scoreDisplay {
+	padding: 3%; 
+	font-size: 200%; 
+}
+
+.wins, .losses { 
+	padding: 2%;	
+}
+
+img {
+    display: inline-block;
+    width:50px;
+    height:50px;
+}
+
+  
+
